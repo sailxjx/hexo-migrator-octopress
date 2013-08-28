@@ -1,0 +1,28 @@
+{
+  "name": "hexo-migrator-octopress",
+  "version": "0.0.1",
+  "description": "Octopress migrator plugin for Hexo",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sailxjx/hexo-migrator-octopress.git"
+  },
+  "keywords": [
+    "website",
+    "blog",
+    "cms",
+    "framework",
+    "hexo"
+  ],
+  "author": "sailxjx <sailxjx@gmail.com>",
+  "license": {
+    "type": "MIT",
+    "url": "http://sailxjx.mit-license.org"
+  },
+  "engines": {
+    "hexo": "*"
+  },
+  "dependencies": {
+    "async": "*"
+  }
+}
