@@ -1,4 +1,4 @@
-# RSS migrator plugin for [Hexo]
+# OctoPress migrator plugin for [Hexo]
 
 This plugin can migrate your blog from Octopress to Hexo.
 
