@@ -1,6 +1,6 @@
 {
   "name": "hexo-migrator-octopress",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Octopress migrator plugin for Hexo",
   "main": "index",
   "repository": {
